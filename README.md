@@ -1,0 +1,1 @@
+I am a front-end software engineer & graphic designer with a strong passion for building responsive and performant web applications with great user experiences that positively impact the world. Using my graphic design and web development skills combined, I can create an appealing UI that promotes the communication of ideas to your audience.
