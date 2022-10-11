@@ -30,7 +30,8 @@ I am a front-end developer & graphic designer with a strong passion for building
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
 </p>
-</br>
 
 ### Stats
 ![Dellano's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakeusd&show_icons=true&theme=gruvbox)
+<br>
+![](https://komarev.com/ghpvc/?username=blakeusd&color=yellow)
