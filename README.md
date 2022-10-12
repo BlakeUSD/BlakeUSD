@@ -34,4 +34,3 @@ I am a front-end developer & graphic designer with a strong passion for building
 ### Stats
 ![Dellano's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakeusd&show_icons=true&theme=gruvbox)
 <br>
-![](https://komarev.com/ghpvc/?username=blakeusd&color=yellow)
