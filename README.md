@@ -9,7 +9,7 @@ I am a front-end developer & graphic designer with a strong passion for building
 
 * 🌍   I'm based in Jamaica.
 * 🖥️   See my portfolio at [dellanoblake](http://dellanoblake.com)
-* 👨🏽‍💻   I'm a **Frontend Web Developer** at [Diversity Cyber Council](https://diversitycybercouncil.com).
+* 👨🏽‍💻   I'm a **Frontend Web Developer** [LinkedIn](https://www.linkedin.com/in/dellano-b-032a9b1a4/).
 * 👥   I'm open to work. Feel free to [contact me](mailto:dellano.blake@outlook.com)
 * 🧠   I'm currently learning **Next.JS**.
 * 💻   Ask me about **React.js**.  
